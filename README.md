@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Qingming, LIU
 
 <!--
 **MobiusLqm/MobiusLqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Research Philosophy:
+I always strive to follow three core principles in my research:
+
+1. Real Innovation:
+    - I value research that brings new perspectives, approaches, or solutions to existing problems.
+2. Elegance and Simplicity:
+    - I aim for solutions that are intuitive, logically sound, and efficient—avoiding unnecessary complexity.
+3. Real-World Impact:
+    - I believe meaningful research should solve pressing problems, inspire change beyond academia，and contribute to real-world applications.

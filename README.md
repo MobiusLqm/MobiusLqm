@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Research Philosophy:
-I always strive to follow three core principles in my research:
+After working on several research projects, I remind myself to always adhere to these guiding principles:
 
 1. Real Innovation:
     - I value research that brings new perspectives, approaches, or solutions to existing problems.

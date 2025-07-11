@@ -21,5 +21,6 @@ After working on several research projects, I remind myself to always adhere to 
     - I value research that brings new perspectives, approaches, or solutions to existing problems.
 2. Elegance and Simplicity:
     - I aim for solutions that are intuitive, logically sound, and efficient—avoiding unnecessary complexity.
+    - "Everything should be made as simple as possible, but no simpler."  --Albert Einstein
 3. Real-World Impact:
     - I believe meaningful research should solve pressing problems and contribute to real-world applications.

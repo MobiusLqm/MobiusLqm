@@ -24,3 +24,5 @@ After working on several research projects, I remind myself to always adhere to 
     - "Everything should be made as simple as possible, but no simpler."  --Albert Einstein
 3. Real-World Impact:
     - I believe meaningful research should solve pressing problems and contribute to real-world applications.
+4. Clarifying Core Problems:
+    -  identifying and understanding the true nature of the problem before initiating solutions, avoiding blind action driven by superficial observations.
